@@ -1,0 +1,4 @@
+http://spacedome.tv/*    https://spacedome.tv/:splat  301!
+
+https://spacedome.netlify.com/*  https://spacedome.tv/:splat  301!
+http://spacedome.netlify.com/*   https://spacedome.tv/:splat  301!
