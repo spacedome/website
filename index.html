@@ -5,13 +5,36 @@
 <title>spacedome.tv</title>
 <style>
 	body{
-		margin:1em auto;
-		max-width:40em;
-		padding:0 .62em;
-		font:1.2em/1.62 sans-serif;
+		margin: 1em auto;
+		max-width: 35em;
+		/*min-width: 20em;*/
+		padding: 0 .62em;
+		font:1.2em/1.6 serif;
+		color: #131516;
+		background-color: #E1E2F3;
 	}
 	h1,h2,h3 {
 		line-height:1.2;
+	}
+	.wrapper {
+	  display: grid;
+	  grid-template-columns: repeat(6, 1fr);
+	  grid-gap: 0em;
+	  grid-auto-rows: minmax(5em, auto);
+	}
+	.logo {
+		grid-column: 1;
+		grid-row: 1;
+		width: 5em;
+	}
+	.julien {
+		grid-column: 2 / 7 ;
+		grid-row: 1;
+		font: 60pt serif;
+		margin: auto;
+		margin-bottom: 0;
+		margin-left: 0;
+		font-weight: bold;
 	}
 	@media print{
 		body{
@@ -20,13 +43,14 @@
 	}
 </style>
 <article>
-	<header>
-		<h1>Julien</h1>
+	<header class="wrapper">
+		<img src="spdm.png" alt="spacedome logo: crying face with the moon in a helmet" class="logo">
+		<h1 class="julien">Julien</h1>
 		<!-- <aside>subtext</aside> -->
 	</header>
 <!-- 	<ul>
 		<li>Item 1
 		<li>Item 2
 	</ul> -->
-	<p>My <a title="github" href="https://github.com/spacedome/">github</a>
+	<p>My <a title="github" href="https://github.com/spacedome/">github</a></p>
 </article>
