@@ -28,6 +28,12 @@
 	  grid-gap: 0.5em;
 	  grid-auto-rows: minmax(3em, auto);
 	}
+	.bar {
+	  display: grid;
+	  grid-template-columns: repeat(5, 1fr);
+	  grid-gap: 0.5em;
+	  grid-auto-rows: minmax(3em, auto);
+	}
 	.logo {
 		grid-column: 2 / 2;
 		grid-row: 1;
@@ -64,10 +70,12 @@
 		<li>Item 1
 		<li>Item 2
 	</ul> -->
-	<div class="wrapper">
-		<p class=menu-item>My <a title="github" href="https://github.com/spacedome/">github</a></p>
+	<div class="bar">
 		<p class=menu-item><a title="artwork" href="artwork.html">Artwork</a></p>
-		<p class=menu-item><a title="essays" href="/index.html">Essays (WIP)</a></p>
+		<p class=menu-item><a title="essays" href="/research.html">Research</a></p>
+		<p class=menu-item><a title="essays" href="/projects.html">Projects</a></p>
+		<p class=menu-item><a title="essays" href="/essays.html">Essays</a></p>
+		<p class=menu-item><a title="github" href="https://github.com/spacedome/">Github</a></p>
 	</div>
 
 	<img src="frog1.svg" alt="F R O G" class="frog">
