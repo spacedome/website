@@ -1,0 +1,12 @@
+<header>
+    <a href="{{ .Site.BaseURL }}" >
+        <img src="{{ "/img/spacedome.svg" | relURL }}" alt="spacedome logo: crying face with the moon in a helmet" class="logo">
+    </a>
+</header>
+<nav>
+    <ul class="bar">
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+</nav>

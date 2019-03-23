@@ -1,0 +1,33 @@
+baseURL = "http://spacedome.tv/"
+languageCode = "en-us"
+title = "spacedome.tv"
+theme = "spdm"
+
+
+[[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 1
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+[[menu.main]]
+    name = "Essays"
+    url = "/essays/"
+    weight = 3
+[[menu.main]]
+    name = "Artwork"
+    url = "/artwork/"
+    weight = 4
+[[menu.main]]
+    name = "Github"
+    url = "https://github.com/spacedome"
+    weight = 5
+[[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 6
+
+[params]
+    footer = "Spacedome"
