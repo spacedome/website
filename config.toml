@@ -13,8 +13,8 @@ theme = "spdm"
     url = "/projects/"
     weight = 2
 [[menu.main]]
-    name = "Essays"
-    url = "/essays/"
+    name = "Writing"
+    url = "/writing/"
     weight = 3
 [[menu.main]]
     name = "Artwork"
@@ -31,3 +31,8 @@ theme = "spdm"
 
 [params]
     footer = "Spacedome"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

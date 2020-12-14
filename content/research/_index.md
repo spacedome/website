@@ -9,8 +9,15 @@ Currently researching Numerical Eigensolvers for Linear and Non-Linear Eigenprob
 
 <h2>Publications</h2>
 
+Julien Brenneck, and Eric Polizzi. *An Iterative Method for Contour-Based Nonlinear Eigensolvers.* (In Review) \[[arXiv](https://arxiv.org/abs/2007.03000)\]
+
 A. Dunn, J. Brenneck, and A. Jain. *Rocketsled: a software library for optimizing high-throughput computational searches.* Journal of Physics: Materials, 2019. \[[pdf](/pdf/rocketsled.pdf)\]\[[doi](https://doi.org/10.1088/2515-7639/ab0c3d "10.1088/2515-7639/ab0c3d")\]\[[bib](/bib/rocketsled.bib)\]
 
+
+<h2>Talks</h2>
+
+**Iteration for Contour-Based Nonlinear Eigensolvers** (2020) \[[pdf](/pdf/talk_nlfeast_beyn.pdf)\] 
+<br/> - Given virtually at CERFACS Sparse Days 2020
 
 <h2>Posters</h2>
 

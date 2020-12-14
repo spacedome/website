@@ -8,7 +8,7 @@ author: Julien
 ----
 
 ### FEASTSolver.jl \[[code](https://github.com/spacedome/FEASTSolver.jl)\]
-An implementation of the FEAST eigensolver in Julia. (Currently in progress).
+An implementation of the FEAST eigensolver and nonlinear extensions in Julia.
 
 ----
 
@@ -18,7 +18,7 @@ A Quaternion library in Julia made for quaternion linear algebra.
 ----
 
 ### mandelbrot-rust \[[code](https://github.com/spacedome/mandelbrot-rust)\]
-Simple Mandelbrot fractal rendering in rust. Has smooth coloring and some basic optimizations.
+Simple Mandelbrot fractal rendering. Has smooth coloring and basic optimizations.
 
 ![fractal](/img/fractal-mandel-06.jpg)
 
