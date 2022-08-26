@@ -12,7 +12,7 @@ An implementation of the FEAST eigensolver and nonlinear extensions in Julia.
 
 ----
 
-### FEASTconfig \[[code](https://github.com/spacedome/feast-config)\] \[[runnable webapp](/app/feastconfig)\]
+### FEASTconfig \[[code](https://github.com/spacedome/feast-config)\] \[[runnable webapp](/app/feastconfig/)\]
 A javascript configuration tool for the advanced FEAST library features, prevents selection of invalid driver options. Made with Svelte.
 
 ----
