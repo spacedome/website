@@ -17,4 +17,4 @@ This essay goes as far as Strassen, but refrains from going into blocking, memor
 \[[Poem 2](poems/poem_2)\]
 \[[Poem 3](poems/poem_3)\]
 \[[Poem 4](poems/poem_4)\]
-\[[Poem 5](poems/poem_5)\]
+<!-- \[[Poem 5](poems/poem_5)\] -->

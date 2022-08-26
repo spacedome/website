@@ -19,6 +19,9 @@ A. Dunn, J. Brenneck, and A. Jain. *Rocketsled: a software library for optimizin
 **Iteration for Contour-Based Nonlinear Eigensolvers** (2020) \[[pdf](/pdf/talk_nlfeast_beyn.pdf)\] 
 <br/> - Given virtually at CERFACS Sparse Days 2020
 
+**Iteration for Contour-Based Nonlinear Eigensolvers** (2021) \[[pdf](/pdf/talk_nlfeast_beyn.pdf)\] 
+<br/> - Presented at SIAM Annual Meeting 2021 - Symposium on Computational Methods for Eigenvalue Problems: Theory and Applications
+
 <h2>Posters</h2>
 
 **Learning Hyper-Parameters with Bayesian Optimization** (2018) \[[pdf](/pdf/poster_CS682.pdf)\]
